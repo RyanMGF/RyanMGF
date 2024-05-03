@@ -1,6 +1,6 @@
-# Olá, me chamo Ryan! 
-## Bem vindo ao meu perfil GitHub 👋
-# Sou um cara motivado, com paixão por aprender e crescer nas áreas de programação e tecnologia. Atualmente estou começando em Python, Cyber ​​Segurança, SQL, Git e JavaScript e estou ansioso para aumentar continuamente minhas habilidades técnicas e conhecimento nessas áreas.
+# I'm Ryan Marcelino
+## IT Support Analyst
+# I'm a motivated guy, with a passion for learning and growing in the areas of programming and technology. I'm currently learning Python, Cyber ​​​​Security, SQL and Full stack Development. I look forward to continually increasing my technical skills and knowledge in these areas.
 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
